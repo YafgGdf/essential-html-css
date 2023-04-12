@@ -22,7 +22,7 @@ body {
 }
 
 .hero {
-  background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/fondohero.png);
+  background-image: linear-gradient(to top, #2c95bf9d, transparent), url(../img/fondohero.png);
   /* background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/webdeveloper.jpg); */
   background-repeat: no-repeat;
   background-position: center;
